@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<carddata>
+  <!--this xml file substitutes for a database. It offers
+  three variations of permissions. We can add and remove
+  other as needed-->
+  <carduser>
+    <card>100</card>
+    <door>201</door>
+    <begindate>1/1/2013</begindate>
+    <enddate>12/31/2013</enddate>
+    <starttime>9:00 AM</starttime>
+    <endtime>4:30 PM</endtime>
+  </carduser>
+
+    <carduser>
+      <card>100</card>
+      <door>205</door>
+      <begindate>5/28/2013</begindate>
+      <enddate>6/28/2013</enddate>
+      <starttime>11:00 AM</starttime>
+      <endtime>7:30 PM</endtime>
+    </carduser>
+
+  <carduser>
+    <card>200</card>
+    <door>205</door>
+    <begindate>5/24/2013</begindate>
+    <enddate>5/24/2013</enddate>
+    <starttime>9:00 AM</starttime>
+    <endtime>3:30 PM</endtime>
+  </carduser>
+
+  <carduser>
+    <card>200</card>
+    <door>201</door>
+    <begindate>5/24/2013</begindate>
+    <enddate>8/24/2013</enddate>
+    <starttime>8:00 AM</starttime>
+    <endtime>11:55 AM</endtime>
+  </carduser>
+      
+</carddata>
